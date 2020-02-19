@@ -1,0 +1,1 @@
+print(*divmod(sum([int(input())for _ in '    ']),60),sep='\n')
